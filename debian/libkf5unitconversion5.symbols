@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5UnitConversion.so.4 libkf5unitconversion4 #MINVER#
+libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER#
  _ZN13KCurrencyCode18currencyCodeToNameERK7QStringS2_@Base 4.96.0
  _ZN13KCurrencyCode20allCurrencyCodesListE6QFlagsINS_14CurrencyStatusEE@Base 4.96.0
  _ZN13KCurrencyCode7isValidERK7QString6QFlagsINS_14CurrencyStatusEE@Base 4.96.0
