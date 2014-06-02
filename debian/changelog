@@ -1,12 +1,10 @@
-kunitconversion (4.99.0-0ubuntu2) UNRELEASED; urgency=medium
-
-  * Install *.pri files in arch dependent path.
-
- -- José Manuel Santamaría Lema <panfaust@gmail.com>  Sun, 01 Jun 2014 21:49:08 +0200
-
 kunitconversion (4.99.0-0ubuntu1) trusty; urgency=medium
 
+  [ Jonathan Riddell ]
   * New upstream beta release
+
+  [ José Manuel Santamaría Lema ]
+  * Install *.pri files in arch dependent path.
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 05 May 2014 15:39:45 +0100
 
