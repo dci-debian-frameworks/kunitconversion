@@ -11,7 +11,10 @@ Homepage: https://projects.kde.org/projects/frameworks/kunitconversion
 Package: libkf5unitconversion-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5unitconversion5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5unitconversion5 (= ${binary:Version}), ${misc:Depends},
+ libkf5config-dev,
+ libkf5i18n-dev,
+ qtbase5-dev
 Description: development files for kunitconversion
  Library to help applications in doing conversions of
  values in different measure units.
