@@ -3,8 +3,14 @@ Section: libs
 Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Scarlett Clark <scarlett@scarlettgatelyclark.com>
-Build-Depends: debhelper (>= 9.0.0), cmake, pkg-kde-tools,
- extra-cmake-modules (>= 0.0.13), qtbase5-dev, libkf5i18n-dev (>= 4.99.0), libkf5config-dev (>= 4.99.0), libkf5kjs-dev (>= 4.99.0)
+Build-Depends: cmake,
+               debhelper (>= 9.0.0),
+               extra-cmake-modules (>= 0.0.14),
+               libkf5config-dev (>= 4.100.0),
+               libkf5i18n-dev (>= 4.100.0),
+               libkf5kjs-dev (>= 4.100.0),
+               pkg-kde-tools,
+               qtbase5-dev
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/kunitconversion
 
@@ -29,15 +35,16 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Support for unit conversion.
  Library to help applications in doing conversions of
  values in different measure units.
- 
+
 Package: libkf5unitconversion5-dbg
-Priority: extra
 Section: debug
 Architecture: any
-Multi-Arch: same
 Depends: libkf5unitconversion5 (= ${binary:Version}), ${misc:Depends}
 Description: debug symbols for kunitconversion
  Library to help applications in doing conversions of
  values in different measure units.
  .
  Contains debug symbols for kunitconversion.
+Multi-Arch: same
+Pre-Depends: ${misc:Pre-Depends}
+Priority: extra
