@@ -30,7 +30,6 @@ Description: development files for kunitconversion
 Package: libkf5unitconversion5
 Architecture: any
 Multi-Arch: same
-Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends},
  libkf5unitconversion-data (= ${source:Version})
 Description: Support for unit conversion.
@@ -40,7 +39,6 @@ Description: Support for unit conversion.
 Package: libkf5unitconversion-data
 Architecture: all
 Multi-Arch: foreign
-Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Support for unit conversion.
  Library to help applications in doing conversions of
@@ -58,5 +56,4 @@ Description: debug symbols for kunitconversion
  .
  Contains debug symbols for kunitconversion.
 Multi-Arch: same
-Pre-Depends: ${misc:Pre-Depends}
 Priority: extra
