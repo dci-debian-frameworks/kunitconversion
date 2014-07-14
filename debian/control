@@ -50,12 +50,12 @@ Description: Support for unit conversion.
 
 Package: libkf5unitconversion5-dbg
 Section: debug
+Priority: extra
 Architecture: any
+Multi-Arch: same
 Depends: libkf5unitconversion5 (= ${binary:Version}), ${misc:Depends}
 Description: debug symbols for kunitconversion
  Library to help applications in doing conversions of
  values in different measure units.
  .
  Contains debug symbols for kunitconversion.
-Multi-Arch: same
-Priority: extra
