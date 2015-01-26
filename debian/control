@@ -3,14 +3,12 @@ Section: libs
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake,
-               debhelper (>= 9.0.0),
+Build-Depends: cmake (>= 2.8.12),
+               debhelper (>= 9),
                extra-cmake-modules (>= 1.6.0),
-               libkf5config-dev (>= 5.6.0),
                libkf5i18n-dev (>= 5.6.0),
-               libkf5kjs-dev (>= 5.6.0),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
-               qtbase5-dev
+               qtbase5-dev (>= 5.2.0)
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/kunitconversion
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/frameworks/kunitconversion.git
@@ -20,15 +18,14 @@ Package: libkf5unitconversion-dev
 Section: libdevel
 Architecture: any
 Depends: libkf5unitconversion5 (= ${binary:Version}), ${misc:Depends},
- libkf5config-dev,
- libkf5i18n-dev,
- qtbase5-dev
+ libkf5i18n-dev (>= 5.6.0),
+ qtbase5-dev (>= 5.2.0)
 Description: development files for kunitconversion
  Library to help applications in doing conversions of
  values in different measure units.
  .
  Contains development files for kunitconversion.
- 
+
 Package: libkf5unitconversion5
 Architecture: any
 Multi-Arch: same
