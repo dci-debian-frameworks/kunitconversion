@@ -6,6 +6,7 @@ kunitconversion (5.6.0-1~) UNRELEASED; urgency=medium
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Update install files.
   * Update watch file.
+  * Update copyright information.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 26 Jan 2015 14:25:42 +0100
 
