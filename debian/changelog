@@ -1,3 +1,9 @@
+kunitconversion (5.7.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.7.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 17:40:16 +0100
+
 kunitconversion (5.6.0-1) experimental; urgency=medium
 
   * Prepare initial Debian release.
