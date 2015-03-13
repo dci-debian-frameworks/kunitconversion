@@ -1,3 +1,9 @@
+kunitconversion (5.8.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 13 Mar 2015 20:53:45 +0100
+
 kunitconversion (5.7.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
