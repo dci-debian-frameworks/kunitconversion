@@ -4,11 +4,23 @@ kunitconversion (5.9.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 16 Apr 2015 10:24:54 +0200
 
+kunitconversion (5.9.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 22:27:03 +0200
+
 kunitconversion (5.8.0-1) experimental; urgency=medium
 
   * New upstream release (5.8.0).
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 20 Mar 2015 14:13:21 +0100
+
+kunitconversion (5.8.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 17 Mar 2015 15:36:51 +0100
 
 kunitconversion (5.7.0-1) experimental; urgency=medium
 
