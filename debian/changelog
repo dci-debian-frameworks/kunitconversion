@@ -1,9 +1,9 @@
-kunitconversion (5.11.0-1~) UNRELEASED; urgency=medium
+kunitconversion (5.11.0-1) unstable; urgency=medium
 
   * New upstream release (5.10.0).
   * New upstream release (5.11.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 27 Jun 2015 10:24:22 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 27 Jun 2015 12:58:43 +0200
 
 kunitconversion (5.9.0-1) experimental; urgency=medium
 
