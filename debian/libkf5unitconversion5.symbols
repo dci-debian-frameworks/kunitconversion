@@ -1,18 +1,5 @@
-# SymbolsHelper-Confirmed: 4.98.0 amd64
+# SymbolsHelper-Confirmed: 5.13.0 amd64
 libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER#
- _ZN13KCurrencyCode18currencyCodeToNameERK7QStringS2_@Base 4.96.0
- _ZN13KCurrencyCode20allCurrencyCodesListE6QFlagsINS_14CurrencyStatusEE@Base 4.96.0
- _ZN13KCurrencyCode7isValidERK7QString6QFlagsINS_14CurrencyStatusEE@Base 4.96.0
- _ZN13KCurrencyCodeC1ERK7QStringS2_@Base 4.96.0
- _ZN13KCurrencyCodeC1ERK9QFileInfoRK7QString@Base 4.96.0
- _ZN13KCurrencyCodeC1ERKS_@Base 4.96.0
- _ZN13KCurrencyCodeC2ERK7QStringS2_@Base 4.96.0
- _ZN13KCurrencyCodeC2ERK9QFileInfoRK7QString@Base 4.96.0
- _ZN13KCurrencyCodeC2ERKS_@Base 4.96.0
- _ZN13KCurrencyCodeD0Ev@Base 4.96.0
- _ZN13KCurrencyCodeD1Ev@Base 4.96.0
- _ZN13KCurrencyCodeD2Ev@Base 4.96.0
- _ZN13KCurrencyCodeaSERKS_@Base 4.96.0
  _ZN15KUnitConversion12UnitCategory13addCommonUnitERKNS_4UnitE@Base 4.98.0
  _ZN15KUnitConversion12UnitCategory14addDefaultUnitERKNS_4UnitE@Base 4.98.0
  _ZN15KUnitConversion12UnitCategory7addUnitERKNS_4UnitE@Base 4.98.0
@@ -63,24 +50,6 @@ libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER#
  _ZN15KUnitConversion9ConverterD1Ev@Base 4.96.0
  _ZN15KUnitConversion9ConverterD2Ev@Base 4.96.0
  _ZN15KUnitConversion9ConverteraSERKS0_@Base 4.98.0
- _ZNK13KCurrencyCode10symbolListEv@Base 4.96.0
- _ZNK13KCurrencyCode11hasSubunitsEv@Base 4.96.0
- _ZNK13KCurrencyCode13dateSuspendedEv@Base 4.96.0
- _ZNK13KCurrencyCode13dateWithdrawnEv@Base 4.96.0
- _ZNK13KCurrencyCode13decimalPlacesEv@Base 4.96.0
- _ZNK13KCurrencyCode13defaultSymbolEv@Base 4.96.0
- _ZNK13KCurrencyCode13subunitSymbolEv@Base 4.96.0
- _ZNK13KCurrencyCode14dateIntroducedEv@Base 4.96.0
- _ZNK13KCurrencyCode15isoCurrencyCodeEv@Base 4.96.0
- _ZNK13KCurrencyCode15subunitsPerUnitEv@Base 4.96.0
- _ZNK13KCurrencyCode17unambiguousSymbolEv@Base 4.96.0
- _ZNK13KCurrencyCode22countriesUsingCurrencyEv@Base 4.96.0
- _ZNK13KCurrencyCode22isoCurrencyCodeNumericEv@Base 4.96.0
- _ZNK13KCurrencyCode24hasSubunitsInCirculationEv@Base 4.96.0
- _ZNK13KCurrencyCode4nameEv@Base 4.96.0
- _ZNK13KCurrencyCode6statusEv@Base 4.96.0
- _ZNK13KCurrencyCode7isValidEv@Base 4.96.0
- _ZNK13KCurrencyCode7isoNameEv@Base 4.96.0
  _ZNK15KUnitConversion12UnitCategory11defaultUnitEv@Base 4.96.0
  _ZNK15KUnitConversion12UnitCategory11descriptionEv@Base 4.96.0
  _ZNK15KUnitConversion12UnitCategory15mostCommonUnitsEv@Base 4.96.0
@@ -130,13 +99,10 @@ libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER#
  _ZNK15KUnitConversion9ConvertereqERKS0_@Base 4.98.0
  _ZNK15KUnitConversion9ConverterneERKS0_@Base 4.98.0
  _ZTI11QSharedData@Base 4.96.0
- _ZTI13KCurrencyCode@Base 4.96.0
  _ZTIN15KUnitConversion12UnitCategoryE@Base 4.96.0
  _ZTIN15KUnitConversion4UnitE@Base 4.96.0
  _ZTS11QSharedData@Base 4.96.0
- _ZTS13KCurrencyCode@Base 4.96.0
  _ZTSN15KUnitConversion12UnitCategoryE@Base 4.96.0
  _ZTSN15KUnitConversion4UnitE@Base 4.96.0
- _ZTV13KCurrencyCode@Base 4.96.0
  _ZTVN15KUnitConversion12UnitCategoryE@Base 4.96.0
  _ZTVN15KUnitConversion4UnitE@Base 4.96.0
