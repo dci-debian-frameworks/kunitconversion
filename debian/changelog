@@ -6,6 +6,9 @@ kunitconversion (5.15.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * new upstream release
 
+  [ Harald Sitter ]
+  * Fix symbols header
+
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 05 Oct 2015 21:00:31 +0100
 
 kunitconversion (5.14.0-0ubuntu1) wily; urgency=medium

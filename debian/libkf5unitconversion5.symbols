@@ -1,3 +1,5 @@
+# SymbolsHelper-Confirmed: 5.0.0 amd64
+libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER
  _ZNK15KUnitConversion12UnitCategory11defaultUnitEv@Base 4.96.0
  _ZNK15KUnitConversion12UnitCategory11descriptionEv@Base 4.96.0
  _ZNK15KUnitConversion12UnitCategory15mostCommonUnitsEv@Base 4.96.0
