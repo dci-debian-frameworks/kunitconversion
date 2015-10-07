@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 5.15.0 amd64 i386
-libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER
+libKF5UnitConversion.so.5 libkf5unitconversion5 #MINVER#
  _ZN15KUnitConversion12UnitCategory13addCommonUnitERKNS_4UnitE@Base 5.15.0
  _ZN15KUnitConversion12UnitCategory14addDefaultUnitERKNS_4UnitE@Base 5.15.0
  _ZN15KUnitConversion12UnitCategory7addUnitERKNS_4UnitE@Base 5.15.0
