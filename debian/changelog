@@ -1,6 +1,6 @@
-kunitconversion (5.20.0-1~1.gbp7a05ad) UNRELEASED; urgency=medium
+kunitconversion (5.20.0-1~2.gbpc14dc8) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7a05ad2b365cf664f998e2405e97f8f4ab3e7b29 **
+  ** SNAPSHOT build @c14dc8c68d74b5687485a931457a42b0199a6ca0 **
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -12,8 +12,9 @@ kunitconversion (5.20.0-1~1.gbp7a05ad) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 29 Mar 2016 19:29:32 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 30 Mar 2016 10:25:15 +0200
 
 kunitconversion (5.19.0-1) experimental; urgency=medium
 
