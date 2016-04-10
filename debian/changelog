@@ -1,3 +1,24 @@
+kunitconversion (5.20.0-1~5.gbp36e794) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @36e7948ed9f01300e71c59db27306fbf0403ca7e **
+
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * UNRELEASED
+  * UNRELEASED
+  * Update acc test script
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:25:26 +0200
+
 kunitconversion (5.19.0-1) experimental; urgency=medium
 
   * New upstream release (5.19.0).
