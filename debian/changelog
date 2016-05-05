@@ -1,6 +1,6 @@
-kunitconversion (5.21.0-1~1.gbp5d387c) UNRELEASED; urgency=medium
+kunitconversion (5.21.0-1~2.gbpbcfa02) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5d387c9bd601b474266caf656e598aee5ac7f93c **
+  ** SNAPSHOT build @bcfa02d3ee2fe99cd3e8bff311075f60b66a860a **
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -10,6 +10,7 @@ kunitconversion (5.21.0-1~1.gbp5d387c) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
   * UNRELEASED
@@ -23,7 +24,7 @@ kunitconversion (5.21.0-1~1.gbp5d387c) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 09:25:31 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 05 May 2016 22:32:19 +0200
 
 kunitconversion (5.19.0-1) experimental; urgency=medium
 
