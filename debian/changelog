@@ -1,10 +1,9 @@
-kunitconversion (5.22.0-1~1.gbpf22a27) UNRELEASED; urgency=medium
+kunitconversion (5.22.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @f22a27e04f37af576cb0e3c1fc4e02f431c48ded **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 15 May 2016 13:25:24 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 May 2016 18:19:38 +0200
 
 kunitconversion (5.21.0-1) experimental; urgency=medium
 
