@@ -1,11 +1,17 @@
-kunitconversion (5.25.0-1~1.gbpbaa9ef) UNRELEASED; urgency=medium
+kunitconversion (5.25.0-1~2.gbp5c698d) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @5c698d702f77851266de441e3e2889ee798af86c **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @baa9eff834f9abc4051631a2b44ed50f66b8ad9e **
 
   * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 13 Aug 2016 13:25:15 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.25)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:25:20 +0200
 
 kunitconversion (5.23.0-1) unstable; urgency=medium
 
