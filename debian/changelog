@@ -1,10 +1,12 @@
-kunitconversion (5.26.0-1~1.gbpc11750) UNRELEASED; urgency=medium
+kunitconversion (5.26.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @c11750612fc6ebdc195210b00743b3e53450e3ec **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 10 Sep 2016 13:26:05 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.26)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 11:59:25 +0200
 
 kunitconversion (5.25.0-1) unstable; urgency=medium
 
