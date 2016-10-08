@@ -1,3 +1,9 @@
+kunitconversion (5.27.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 08 Oct 2016 11:32:55 +0000
+
 kunitconversion (5.26.0-0neon) xenial; urgency=medium
 
   * New release
