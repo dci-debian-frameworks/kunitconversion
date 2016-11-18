@@ -1,10 +1,13 @@
-kunitconversion (5.28.0-1~1.gbpd3564f) UNRELEASED; urgency=medium
+kunitconversion (5.28.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @d3564f0ec93d61298db46b4cf9e4707997fd207d **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 15 Nov 2016 19:25:42 +0100
+  [ Maximiliano Curia ]
+  * New upstream release (5.28)
+  * Bump group breaks (5.28)
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 18 Nov 2016 16:04:27 +0100
 
 kunitconversion (5.27.0-1) unstable; urgency=medium
 
