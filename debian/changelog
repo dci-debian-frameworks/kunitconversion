@@ -1,4 +1,4 @@
-kunitconversion (5.35.0-1~1) UNRELEASED; urgency=medium
+kunitconversion (5.36.0-1~) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (5.35.0).
@@ -6,6 +6,8 @@ kunitconversion (5.35.0-1~1) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
   * Bump group breaks (5.35)
   * Avoid downloading conversion values on tests
+  * watch: Use https uris
+  * New upstream release (5.36.0).
 
   [ Raymond Wooninck ]
   * Add signing key
@@ -14,7 +16,7 @@ kunitconversion (5.35.0-1~1) UNRELEASED; urgency=medium
   [ Harald Sitter ]
   * acc c++11. now used more liberally
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 06 Jul 2017 17:21:50 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 13:42:41 +0200
 
 kunitconversion (5.28.0-1) unstable; urgency=medium
 
