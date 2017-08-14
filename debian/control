@@ -5,10 +5,10 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 3.0~),
                debhelper (>= 9),
-               extra-cmake-modules (>= 5.36.0~),
-               libkf5i18n-dev (>= 5.36.0~),
+               extra-cmake-modules (>= 5.37.0~),
+               libkf5i18n-dev (>= 5.37.0~),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
-               qtbase5-dev (>= 5.6.0~)
+               qtbase5-dev (>= 5.7.0~)
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/frameworks/kunitconversion
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/frameworks/kunitconversion.git
@@ -17,9 +17,9 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/frameworks/kunitconversion.git
 Package: libkf5unitconversion-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5i18n-dev (>= 5.36.0~),
+Depends: libkf5i18n-dev (>= 5.37.0~),
          libkf5unitconversion5 (= ${binary:Version}),
-         qtbase5-dev (>= 5.6.0~),
+         qtbase5-dev (>= 5.7.0~),
          ${misc:Depends}
 Description: development files for kunitconversion
  Library to help applications in doing conversions of
