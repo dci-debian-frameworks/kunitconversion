@@ -52,6 +52,7 @@ Description: Support for unit conversion (documentation)
  values in different measure units.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5unitconversion5
 Architecture: any
