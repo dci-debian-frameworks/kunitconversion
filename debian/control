@@ -41,7 +41,7 @@ Description: development files for kunitconversion
  values in different measure units.
  .
  Contains development files for kunitconversion.
-Breaks: libkf5kdelibs4support-dev (<< 5.37)
+Breaks: libkf5kdelibs4support-dev (<< 5.41)
 
 Package: libkf5unitconversion-doc
 Architecture: all
