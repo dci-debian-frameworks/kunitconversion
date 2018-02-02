@@ -41,7 +41,7 @@ Description: development files for kunitconversion
  values in different measure units.
  .
  Contains development files for kunitconversion.
-Breaks: libkf5kdelibs4support-dev (<< 5.41)
+Breaks: libkf5kdelibs4support-dev (<< 5.42)
 
 Package: libkf5unitconversion-doc
 Architecture: all
@@ -63,3 +63,4 @@ Depends: libkf5unitconversion-data (= ${source:Version}),
 Description: Support for unit conversion.
  Library to help applications in doing conversions of
  values in different measure units.
+Breaks: libkf5kdelibs4support5 (<< 5.42), libkf5kdelibs4support5-bin (<< 5.42)
